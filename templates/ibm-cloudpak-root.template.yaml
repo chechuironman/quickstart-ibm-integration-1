@@ -389,7 +389,7 @@ Parameters:
     Default: "False"
   ES:
     Description: >-
-       Choose "True" to install an example instance of the Cognos Event Streaming runtime.
+       Choose "True" to install an example instance of the Event Streaming runtime.
     Type: String
     AllowedValues:
       - "False"
@@ -397,7 +397,7 @@ Parameters:
     Default: "False"
   GW:
     Description: >-
-       Choose "True" to install an example instance of the Cognos Gateway service.
+       Choose "True" to install an example instance of the Gateway service.
     Type: String
     AllowedValues:
       - "False"
