@@ -67,8 +67,8 @@
 (`AIDB`)|`False`|Choose "True" to install an example instance of the Application Integration Dashboard capability.|Application Integration Designer
 (`AIDE`)|`False`|Choose "True" to install an example instance of the Application Integration Designer capability.|Messaging
 (`MQ`)|`False`|Choose "True" to install an example instance of the Messaging runtime.|Event Streaming
-(`ES`)|`False`|Choose "True" to install an example instance of the Cognos Event Streaming runtime.|Gateway
-(`GW`)|`False`|Choose "True" to install an example instance of the Cognos Gateway service.|High Speed Transfers
+(`ES`)|`False`|Choose "True" to install an example instance of the Event Streaming runtime.|Gateway
+(`GW`)|`False`|Choose "True" to install an example instance of the Gateway service.|High Speed Transfers
 (`HST`)|`False`|Choose "True" to install an example instance of the High Speed Transfers runtime.
 |===
 .AWS Quick Start configuration
